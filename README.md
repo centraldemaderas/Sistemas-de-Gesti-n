@@ -1,2 +1,2 @@
-# Sistemas-de-Gestiion
+# Sistemas-de-Gestion
 App para manejo de los sistemas de gestión 
